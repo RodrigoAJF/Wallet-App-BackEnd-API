@@ -1,0 +1,14 @@
+{
+  "name": "wallet-app-back-end",
+  "version": "1.0.0",
+  "description": "Wallet finances app API using Node.JS and postgres",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "RodrigoJ",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
